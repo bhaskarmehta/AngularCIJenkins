@@ -1,4 +1,4 @@
-export class User {
+export class User  {
     UserId: number | undefined;
     UserName: string | undefined;
     Password: string | undefined;
