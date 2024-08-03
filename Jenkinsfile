@@ -2,7 +2,7 @@ pipeline{
     agent any
     environment{
         dockerImage=''
-        registry='bhasmeht/angular-image:3.0.1'
+        registry='ramtech111/angular-image:3.0.1'
         registryCredential='dockerhub_id'
     }
     stages{
